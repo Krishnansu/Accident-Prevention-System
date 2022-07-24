@@ -1,4 +1,6 @@
 # Accident Prevention Bot
+## Problem Statement: Prevention of accidents at hairpin bends
+
 While driving on roads at hairpin section, many drivers face accident which results them into serious injuries or even death. The main reason behind this accident is curves and bends of roads while turning in Ghats. It becomes difficult to see vehicles coming from other The other reason for accident in hairpin section is that only one vehicle can turn at turnings at a time. If two vehicles come face to face while turning, it creates a chance of accidents and it becomes difficult to handle.
 
 
